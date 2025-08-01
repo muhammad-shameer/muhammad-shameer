@@ -22,4 +22,4 @@
 
 ---
 
-📫 **Let’s connect:** [Email Me](mailto:dev.muhammadshameer@gmail.com) | [LinkedIn](https://linkedin.com/in/muhammad-shameerr)
+📫 **Let’s connect:** [Email Me](mailto:dev.muhammadshameer@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-shameerr/)
