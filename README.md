@@ -1,7 +1,7 @@
 # Hi, I'm Shameer 👋
 
-🚀 **Beginner programmer** on a mission to build real-world crypto tools  
-📈 Passionate about building tools that solve real-world trading challenges  
+🚀 **Beginner programmer** on a mission to build real-world finance tools  
+📈 Passionate about building tools that solve real-world economical challenges  
 🌱 Currently learning: Python libraries for trading, JavaScript, and automation    
 
 ---
