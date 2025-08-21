@@ -2,8 +2,7 @@
 
 🚀 **Beginner programmer** on a mission to build real-world finance tools  
 📈 Passionate about building tools that solve real-world economical challenges  
-🌱 Currently learning: Python libraries for trading, JavaScript, and automation    
-
+🌱 Currently learning: c, c++, python automation
 ---
 
 ## 🚀 Skills & Tools
