@@ -1,13 +1,12 @@
 # Hi, I'm Shameer 👋
 
-🚀 **Beginner programmer** on a mission to build real-world finance tools  
-📈 Passionate about building tools that solve real-world economical challenges  
-🌱 Currently learning: c, c++, python automation
+🚀 **Beginner programmer** on a mission to build real-world data science projects  
+📈 Passionate about building tools that solve real-world challenges  
+🌱 Currently learning: python and machine learning
 ---
 
 ## 🚀 Skills & Tools
-- **Languages:** Python, JavaScript (learning)
-- **Web:** HTML, CSS
+- **Languages:** Python
 - **Data:** Pandas, NumPy, Matplotlib
 
 ---
