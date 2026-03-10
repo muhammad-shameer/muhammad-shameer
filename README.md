@@ -1,9 +1,6 @@
 # Hi, I'm Shameer 👋
 
-🚀 **Beginner programmer** on a mission to build real-world data science projects  
-📈 Passionate about building tools that solve real-world challenges  
-🌱 Currently learning: python and machine learning
----
+I'm currently on a journey to learn data science, and building projects to strenghthen my understanding about machine learning and data science concepts.
 
 ## 🚀 Skills & Tools
 - **Languages:** Python
